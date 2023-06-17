@@ -1,5 +1,9 @@
 # Sistema de avaliação do IFBA - Backend
-> Projeto utilizado como avalição da disciplina optativa de Frameworks de Desenvolvimento 
+> Projeto utilizado como avalição da disciplina optativa de Frameworks de Desenvolvimento
+
+## Todos os repositórios
+- Frontend: [link]()
+- Backend: [link]()
 
 ## Participantes
 Clique aqui para ver a turma completa: [link](https://github.com/orgs/ifba-vca/teams/optativa-frameworks-de-desenvolvimento)
